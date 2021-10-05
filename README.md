@@ -1,10 +1,28 @@
-# iiserk_app
+# IISER Kolkata App
 
-A new Flutter project.
+This is a Flutter Project for the new **IISER Kolkata App**
 
-## Getting Started
+## Getting Started with the project
 
-This project is a starting point for a Flutter application.
+To get started, clone this project and run `flutter run` in the base project folder. Refer to [Getting Started with Flutter](#getting-started-with-flutter) if you are new to flutter
+
+## Development
+
+### Phase 1: Welearn
+
+A list of things to do:
+
+- UI:
+
+  - [ ] Login Page
+  - [ ] List of Courses
+
+- Backend Logic:
+
+  - [ ] Login
+  - [ ] List of Courses
+
+## Getting Started with Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
