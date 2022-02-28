@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repo (flutter project) has been abandoned in favour for [this](https://github.com/slashdot-iiserk/IISER-K-PWA) repo. It makes more sense to make the app as a PWA.
+
 # IISER Kolkata App
 
 This is a Flutter Project for the new **IISER Kolkata App**
